@@ -1,5 +1,6 @@
-print("*** Hey This is Z&E Coffe shop ***\n")
-name=input("whats your name?\n")
+print("\n\n*** Hey This is Z&E Coffe shop ***\n")
+print("\nWe have special case for 'Ben'")
+name=input("\nwhats your name?\n")
 
 if name=="Ben":
   ans=input("Are you Evil?\n")
